@@ -442,4 +442,6 @@ header .navbar ul li a:hover{
 
  }
 
-
+.info h3{
+    text-transform: none;
+}
